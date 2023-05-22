@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattji007" alt="bhattji007" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhattji007/](https://github.com/bhattji007/)
 

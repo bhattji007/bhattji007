@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shubhambhattrocks123@gmail.com**
 
-- ⚡ Fun fact **I have an uncanny ability to turn caffeine into code! With a cup of coffee in hand, I can conquer coding challenges with energy and enthusiasm. So, if you ever need a javascript-powered coding buddy, count me in!**
+- ⚡ Fun fact **I prioritize quality over quantity in my GitHub repositories, as the code I create directly translates into financial gains.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

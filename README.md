@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatt</h1>
-<h3 align="center">I'm the backend-developer and IAM security intern with a secret sauce of wit and coding wizardry.  From APIs to security, I'll have your projects rocking and rolling like a coding concert. Let's code, laugh, and create something that'll make the world go "Wow!"</h3>
+<h3 align="center">I'm a backend-developer and IAM security intern with a secret sauce of wit and coding wizardry.  From APIs to security, I'll have your projects rocking and rolling like a coding concert. Let's code, laugh, and create something that'll make the world go "Wow!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shubhambhattrocks123@gmail.com**
 
-- 👨‍💻 You are welcome to contribute here [E-chllan-Reminder](https://github.com/bhattji007/E-challan-reminder)
+- 👨‍💻 You are welcome to contribute here [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase)
 
 - ⚡ Fun fact **I prioritize quality over quantity in my GitHub repositories, as the code I create directly translates into financial gains.**
 

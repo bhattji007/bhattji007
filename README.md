@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatt</h1>
-<h3 align="center">I'm a backend-developer and IAM security intern with a secret sauce of wit and coding wizardry.  From APIs to security, I'll have your projects rocking and rolling like a coding concert. Let's code, laugh, and create something that'll make the world go "Wow!"</h3>
+<h3 align="center">As a Software Engineer, I specialize in backend development and Identity Access Management. With a touch of humor and coding expertise, I'll make your projects shine. From APIs to security, we'll create something amazing together that'll leave everyone impressed! Let's code, have fun, and build something extraordinary.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
 
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 - 👨‍💻 All of my projects are available at [https://github.com/bhattji007/](https://github.com/bhattji007/)
 
 - 💬 Ask me about **Nodejs, Expressjs, Oauth Integrations, Identity Access Management**

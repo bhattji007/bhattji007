@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatt</h1>
-<h3 align="center">As a Software Engineer, I specialize in backend development and Identity Access Management. With a touch of humor and coding expertise, I'll make your projects shine. From APIs to security, we'll create something amazing together that'll leave everyone impressed! Let's code, have fun, and build something extraordinary.</h3>
+<h3 align="center">As a Software Engineer, I specialize in backend development and Identity Access Management. With a touch of humor and coding expertise, I'll make your projects shine. From APIs to security, I'll create something amazing together that'll leave everyone impressed! Let's code, have fun, and build something extraordinary.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
 

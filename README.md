@@ -6,6 +6,7 @@ As a Software Engineer, I specialize in backend development and Identity Access 
 <br clear="both">
 
 <div align="center">
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanChopraa&show_icons=true&theme=radical)](https://github.com/bhattji007)
   <img src="https://streak-stats.demolab.com?user=bhattji007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattji007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>

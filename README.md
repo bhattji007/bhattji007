@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🫡 About Me:
 As a Software Engineer, I specialize in backend development and Identity Access Management. With a touch of humor and coding expertise, I'll make your projects shine. From APIs to security, I'll create something amazing together that will impress everyone! Let's code, have fun, and build something extraordinary.<br><br>- 💬 Want to chat about Node.js, Express.js, or the mysteries of OAuth Integrations? I'm your go-to guy!<br><br>- 📫 Slide into my inbox at **shubhambhattrocks123@gmail.com** (Only for the bravest souls!)<br><br>- 👨‍💻 Want to join the coding carnival? Contribute to my masterpiece [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase)<br><br>- ⚡ Fun Fact: I believe in quality over quantity in my GitHub repos. Because let's be real, quality code equals financial gains! 💰<be>
 
 ###

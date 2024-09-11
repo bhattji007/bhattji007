@@ -13,7 +13,6 @@ As a Software Engineer, I specialize in backend development and Identity Access 
 
 ###
 
-<br clear="both">
 ###
 
 <div align="left">

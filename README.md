@@ -17,12 +17,10 @@ Backend developer by day, OAuth wizard by night. I'm the guy you call when your 
 -   Shoot me an email at <shubhambhattrocks123@gmail.com> (I promise I don't bite)
 -   Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding playground, but with more OAuth.
 
-## Fun Fact
+## Last played
 --------
 
-I'm a firm believer in the "quality over quantity" philosophy for GitHub repos. Why? Because awesome code leads to awesome opportunities (and maybe a few extra zeroes in the bank account 💸).
-
-Remember, in the world of coding, we don't make mistakes -- we create "unexpected features"!
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rdw3j3bu2jqbi4hac3nthhyy44&unique={true|1|on|yes})
 
 ###
 

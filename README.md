@@ -1,27 +1,31 @@
-# 👋 Hey there, I'm Shubham!
------------------------------
+# 👋 Howdy, I'm Shubham!
 
-Backend developer by day, OAuth wizard by night. I'm the guy you call when your APIs need a makeover and your access management is in shambles.
+---
 
-## What I'm all about:
--------------------
+_Backend developer by day, OAuth wizard by night. When your APIs are throwing tantrums and your access management is playing hide and seek, I'm the one you call._
 
--   Crafting clean, efficient backend solutions (Node.js is my jam)
--   Untangling the web of Identity and Access Management
--   Turning coffee into code (and occasionally into working OAuth integrations)
+## What's Cooking?
 
-## Let's connect!
---------------
+---
 
--   Got a burning question about Express.js or need to vent about OAuth? I'm all ears!
--   Shoot me an email at <shubhambhattrocks123@gmail.com> (I promise I don't bite)
--   Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding playground, but with more OAuth.
+- Whipping up clean and efficient backend solutions (Node.js is my playground)
+- Navigating the labyrinth of Identity and Access Management without a map
+- Transforming coffee into code (and occasionally into working OAuth integrations)
 
-## Last played
---------
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rdw3j3bu2jqbi4hac3nthhyy44&unique={true|1|on|yes})
-</div>
+## Let's Connect!
+
+---
+
+Got a burning question about Express.js? Need to vent about OAuth nightmares? I'm all ears!
+
+- **Ping me anytime!** I promise I don't bite—unless provoked by unhandled exceptions.
+- Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding sandbox, but with more OAuth and fewer sandcastles.
+
+## 🎧 Currently Jamming To
+
+---
+
+![Last Played](https://spotify-recently-played-readme.vercel.app/api?user=31rdw3j3bu2jqbi4hac3nthhyy44&unique={true|1|on|yes})
 
 ###
 
@@ -35,60 +39,62 @@ Backend developer by day, OAuth wizard by night. I'm the guy you call when your 
 
 ###
 
-###
+### 🛠️ Tools of the Trade
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="Azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="ESLint logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="Rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="reactivex logo"  />
+  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="ReactiveX logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS logo"  />
 </div>
 
 ###
 
+### 🌐 Find Me Around the Web
+
 <div align="left">
-  <a href="https://instagram.com/printf_happiness"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <a  href="https://linkedin.com/in/shubham-codes"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> </a>
- <a  href="https://x.com/ctrl_alt_deploy"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" href="https://x.com/ctrl_alt_deploy"  /></a>
+  <a href="https://instagram.com/printf_happiness"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  /></a>
+  <a href="https://linkedin.com/in/shubham-codes"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"/></a>
+  <a href="https://x.com/ctrl_alt_deploy"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" /></a>
 </div>
 
 ###

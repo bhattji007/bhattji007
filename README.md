@@ -16,9 +16,9 @@ _Backend developer by day, OAuth wizard by night. When your APIs are throwing ta
 
 ---
 
-Got a burning question about Express.js? Need to vent about OAuth nightmares? I'm all ears!
+Do you have a question about Backend Development or need to vent about OAuth nightmares? I'm all ears!
 
-- **Ping me anytime!** I promise I don't bite—unless provoked by unhandled exceptions.
+- **Ping me anytime!** I promise I don't bite—unless provoked by unhandled exceptions. 📩 [Mail](mailto:shubhambhattrocks123@gmail.com)
 - Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding sandbox, but with more OAuth and fewer sandcastles.
 
 ## 🎧 Currently Jamming To

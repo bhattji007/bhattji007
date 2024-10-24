@@ -1,8 +1,8 @@
-# 👋 Howdy, I'm Shubham!
+# 🫡 Howdy, I'm Shubham!
 
 ---
 
-_Backend developer by day, OAuth wizard by night. When your APIs are throwing tantrums and your access management is playing hide and seek, I'm the one you call._
+_Backend developer by day, OAuth wizard by night. When your APIs are throwing tantrums and your access management plays hide and seek, I'm the one you call._
 
 ## What's Cooking?
 

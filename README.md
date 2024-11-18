@@ -2,21 +2,23 @@
 
 ---
 
-_Backend developer by day, OAuth wizard by night. When your APIs are throwing tantrums and your access management plays hide and seek, I'm the one you call._
+_I'm a backend developer. When your APIs are acting up and your access management is playing hard to get, I'm the one you reach out to._
 
-## What's Cooking?
+## What can I do?
 
 ---
 
-- Whipping up clean and efficient backend solutions (Node.js is my playground)
-- Navigating the labyrinth of Identity and Access Management without a map
-- Transforming coffee into code (and occasionally into working OAuth integrations)
+- Craft clean and efficient backend solutions.
+- Navigate the maze of Identity and Access Management without a map
+- Turn coffee into code (and occasionally into functional OAuth integrations)
+
+---
 
 ## Let's Connect!
 
 ---
 
-Do you have a question about Backend Development or need to vent about OAuth nightmares? I'm all ears!
+Do you have a question about backend development or want to vent about OAuth nightmares? I'm all ears!
 
 - **Ping me anytime!** I promise I don't bite—unless provoked by unhandled exceptions. 📩 [Mail](mailto:shubhambhattrocks123@gmail.com)
 - Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding sandbox, but with more OAuth and fewer sandcastles.

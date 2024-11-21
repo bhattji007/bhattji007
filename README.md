@@ -26,8 +26,9 @@ Do you have a question about backend development or want to vent about OAuth nig
 ## 🎧 Currently Jamming To
 
 ---
-
+<div align="center">
 ![Last Played](https://spotify-recently-played-readme.vercel.app/api?user=31rdw3j3bu2jqbi4hac3nthhyy44&unique={true|1|on|yes})
+</div>
 
 ###
 

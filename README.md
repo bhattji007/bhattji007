@@ -23,14 +23,7 @@ Do you have a question about backend development or want to vent about OAuth nig
 - **Ping me anytime!** I promise I don't bite—unless provoked by unhandled exceptions. 📩 [Mail](mailto:shubhambhattrocks123@gmail.com)
 - Check out my pet project: [Openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase). It's like my coding sandbox, but with more OAuth and fewer sandcastles.
 
-## 🎧 Currently Jamming To
-
----
-  
-![Last Played](https://spotify-recently-played-readme.vercel.app/api?user=31rdw3j3bu2jqbi4hac3nthhyy44&unique={true|1|on|yes})
-
-
-###
+## 👌🏼 Stats 
 
 <br clear="both">
 

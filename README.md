@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatt</h1>
 <h3 align="center">A quirky developer, with experience in security, finances, gen AI, currently working as a founding engineer .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bhattji007/count.svg?"  />
+</div>
+
 
 - 🔭 I’m currently working on [openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase)
 

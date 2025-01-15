@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattji007&label=Profile%20views&color=0e75b6&style=flat" alt="bhattji007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattji007" alt="bhattji007" /></a> </p>
-
 - 🔭 I’m currently working on [openid-auth0-grants-showcase](https://github.com/bhattji007/openid-auth0-grants-showcase)
 
-- 🌱 I’m currently learning **rust, accounting and MLops**
+- 🌱 I’m currently learning **Rust, Accounting and MLops**
 
 - 👯 I’m looking to collaborate [E-challan-reminder](https://github.com/bhattji007/E-challan-reminder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhattji007](https://github.com/bhattji007)
 
-- 💬 Ask me about **Identity Access Management ,Backend Development, genAI fine-tuning, MLops,**
+- 💬 Ask me about **Identity Access Management, Backend Development, genAI fine-tuning, MLops,**
 
 - 📫 How to reach me **shubhambhattrocks123@gmail.com**
 

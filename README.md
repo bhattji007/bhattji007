@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatt</h1>
-<h3 align="center">A quirky developer, with experience in security, finances, gen AI, currently working as a founding engineer .</h3>
+<h3 align="center">🔐 Ex-IAM Security Consultant → 💸 Built Scalable SaaS Tools → 🤖 Founding Engineer Specializing in Gen AI for Automated Accounting | Closing Books, Reconciling Chaos & Architecting Smarter Ledgers</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/bhattji007/count.svg?"  />

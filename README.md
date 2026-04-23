@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bhattji007/count.svg?" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/shubham-codes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ctrl_alt_deploy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/bhattji007"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" /></a>
@@ -89,28 +85,6 @@ Backend architecture • API performance tuning • MongoDB at scale • Startup
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhattji007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattji007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattji007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Work
-
-🤖 **Maira — AI Companion** · *FastAPI, MongoDB, Vertex AI, RAG*  
-Hinglish conversational AI with JWT auth, RAG-based memory, and Vertex AI image generation. Custom prompt pipelines tuned for code-mixed Hindi-English.
-
-🛠️ **Autonomous GitLab Agent** · *TypeScript, Claude Code, Argo, Kubernetes*  
-Processes GitLab issues end-to-end — planning, code changes, MR creation — using Claude Code subprocess orchestration in Argo workflows.
-
----
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/bhattji007/bhattji007/output/snake.svg" alt="Snake animation" />

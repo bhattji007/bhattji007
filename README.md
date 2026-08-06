@@ -101,20 +101,6 @@ Backend architecture • Zero-downtime database migrations • API performance t
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhattji007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattji007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattji007&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/bhattji007/bhattji007/output/snake.svg" alt="Snake animation" />
